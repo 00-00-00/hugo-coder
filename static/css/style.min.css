@@ -192,6 +192,12 @@ img {
   max-width: 50%;
 }
 
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .extra_padded {
+    max-width: 90%;
+  }
+}
+
 .navigation {
   height: 6rem;
   width: 100%;
