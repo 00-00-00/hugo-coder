@@ -165,13 +165,13 @@ img {
   width: 100%;
   padding-left: 2rem;
   padding-right: 2rem;
-}c
+}
 
 .container a:link, .container a:visited {
 	font-weight: bold;
 	text-decoration: none;
 	color: #000;
-    border-bottom: 3px solid #FAFF63;
+  border-bottom: 3px solid #FAFF63;
 	box-shadow: inset 0 -4px 0 #FAFF63;
 	}
 .container a:hover, .container a:active {
@@ -182,7 +182,7 @@ img {
 	box-shadow: inset 0 -4px 0 #FAFF63;
 	-moz-text-decoration-color: #FAFF63;
 	text-decoration-color: #FAFF63;
-    }
+  }
     
 .padded {
   width: 85%;
