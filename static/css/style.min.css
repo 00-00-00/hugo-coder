@@ -167,6 +167,25 @@ img {
   padding-right: 2rem;
 }
 
+.outer_center {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle_center {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner_center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container a:link, .container a:visited {
 	font-weight: bold;
 	text-decoration: none;
