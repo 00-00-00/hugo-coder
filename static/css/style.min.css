@@ -165,7 +165,7 @@ img {
   width: 100%;
   padding-left: 2rem;
   padding-right: 2rem;
-}
+}c
 
 .container a:link, .container a:visited {
 	font-weight: bold;
@@ -186,7 +186,10 @@ img {
     
 .padded {
   width: 85%;
-	max-width: 650px;
+}
+
+.extra_padded {
+  max-width: 50%;
 }
 
 .navigation {
