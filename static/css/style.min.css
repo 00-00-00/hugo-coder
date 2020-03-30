@@ -300,9 +300,11 @@ img {
 }
 .centered {
   display: flex;
-  height: 100vh;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+  min-height: 70vh;
+  width: 100%;
 }
 .centered .about {
   text-align: center;
